@@ -1,13 +1,11 @@
 ![](jumbo.jpg)
 
-    npm install
-    npm start
-    
+    yarn install
+    yarn dev
+
 This is a small primer on how to use GLTF models on the web, specifically how to use them as dynamic assets.
 
-Tutorial: https://www.youtube.com/watch?v=xy_tbV4pC54
-
-Live demo: https://codesandbox.io/s/floating-shoe-forked-qxjoj
+Live demo: 
 
 ### How to compress assets and turn them into JSX components
 
@@ -21,17 +19,14 @@ Live demo: https://codesandbox.io/s/floating-shoe-forked-qxjoj
 1. Put `Model.js` (the output of [gltfjsx](https://github.com/pmndrs/react-three-fiber)) anywhere inside `/src`
 
 
-
 # Comands:
-1. npm i valtio
-1. npm install @react-three/drei (https://github.com/pmndrs/drei)
-1. npm install three @react-three/fiber (js)
-1. npm install @types/three (ts)
+1. yarn add valtio
+1. yarn add @react-three/drei (https://github.com/pmndrs/drei)
+1. yarn add three @react-three/fiber (js)
+1. yarn add @types/three (ts)
 
-1. npm install @react-three/cannon (physics)
-1. npm install @react-three/postprocessing
-1. npm install @use-gesture/react
+1. yarn add @react-three/cannon (physics)
+1. yarn add @react-three/postprocessing
+1. yarn add @use-gesture/react
 
-
-** ALERT !! DONT WORK  **
 
