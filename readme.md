@@ -5,7 +5,7 @@
 
 This is a small primer on how to use GLTF models on the web, specifically how to use them as dynamic assets.
 
-Live demo: 
+Live demo: https://floating-shoe.vercel.app/
 
 ### How to compress assets and turn them into JSX components
 
